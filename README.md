@@ -9,35 +9,7 @@ Luego, nos adentramos en el mundo del machine learning, aplicando dos modelos fu
 
 A lo largo de este emocionante proyecto de aprendizaje, enfrentamos desafíos y tomamos decisiones críticas en cada etapa del proceso. Desde la limpieza y preparación de los datos hasta la selección y ajuste de los modelos de machine learning, cada paso nos brindó nuevas oportunidades para mejorar nuestras habilidades y comprensión en el campo del análisis de datos y la inteligencia artificial
 
-Instalación y Configuración
-Sigue estos pasos para instalar y configurar el proyecto en tu entorno local:
 
-Requisitos Previos
-Asegúrate de tener instalado lo siguiente en tu sistema:
-
-* Python 
-* MongoDB 
-* Git
-* 
-Clonar el Repositorio
-Clona este repositorio en tu máquina local utilizando Git:
-
-git clone https://github.com/EduardoCastellanosP/ICFES-Analysis-ML.git
-
-Instalar Dependencias
-Instala las dependencias del proyecto utilizando pip: 
-
-pip install -r requirements.txt
-
-Configurar MongoDB
-
-Inicia el servidor de MongoDB en tu máquina local.
-
-Crea una base de datos y una colección para el proyecto.
-
-Actualiza el archivo de configuración config.py con la URL de tu base de datos MongoDB.
-
-Ejecutar el Proyecto
 
 Ejecuta el script principal para iniciar la aplicación:  
 python main.py
